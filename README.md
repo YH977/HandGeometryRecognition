@@ -18,7 +18,7 @@ Best model: **InceptionV3 — 98.6% test accuracy** on a held-out test set.
 
 ## Dataset
 
-- **Source:** [dataset name / link]
+- **Source:** Hands and palm images dataset / (https://www.kaggle.com/datasets/shyambhu/hands-and-palm-images-dataset?)
 - **Classes:** 40 individuals
 - **Total images:** 1,197 — 818 train / 159 validation / 220 test
 - **Input:** RGB hand images, ImageNet-normalized
@@ -84,8 +84,8 @@ PyTorch, timm, TensorFlow/Keras, scikit-learn, NumPy, Matplotlib — trained on 
 ## Installation
 
 ```bash
-git clone https://github.com/[your-username]/[repo-name].git
-cd [repo-name]
+git clone https://github.com/YH977/HandGeometryRecognition.git
+cd HandGeometryRecognition
 pip install -r requirements.txt
 ```
 
